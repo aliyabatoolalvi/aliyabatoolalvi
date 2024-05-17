@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="it.png"  />
+  <img height="250" src="it.png"  />
 </div>
 
 ###
@@ -72,6 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aliyabatoolalvi/aliyabatoolalvi/main/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/aliyabatoolalvi/aliyabatoolalvi/main/snake.svg" alt="Snake animation" />-->
 
 ###
