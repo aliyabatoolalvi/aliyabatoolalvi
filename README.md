@@ -43,7 +43,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-# 💻 Tech Stack:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
