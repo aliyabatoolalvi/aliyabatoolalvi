@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Aliya from your planet<br><br>- 🔭 I’m studying SE<br>- 📚 I'm currently learning AI and android<br>- 🎨 In my free time I, I paint.</p>
+<p align="left">I'm Aliya from your planet<br><br>- 🔭 I’m SE grad<br>- 📚 I'm currently learning JS.<br>- 🎨 In my free time I, I paint.</p>
 
 ###
 
